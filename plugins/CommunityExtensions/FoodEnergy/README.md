@@ -1,8 +1,9 @@
-# Numi Food Energy Plugin
+# Food Energy for Numi
 
-Adds food energy units to Numi:
+## What is this extension for?
+This plugin alows you to trqnsform food energy to joule, kilojoule, calories or kilo calories.
 
-- `J` / `joule`
+- `Joule` / `joule`
 - `kJ` / `kilojoule`
 - `cal` / `calorie` / `calories` (small calorie)
 - `kcal` / `Calories` (food Calories on nutrition labels)
@@ -14,7 +15,7 @@ Adds food energy units to Numi:
 3. Copy `food-energy.js` into that folder.
 4. Reload Numi (or restart the app).
 
-## Examples
+## How to use it?
 
 - `250 kcal in kJ` -> `1046 kJ`
 - `250 Calories in kJ` -> `1046 kJ` 

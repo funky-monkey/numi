@@ -15,17 +15,17 @@ numi.addUnit({
 });
 
 numi.addUnit({
-  "id": "small_calorie",
-  "phrases": "cal, calorie, calories, smallcal",
-  "baseUnitId": "gram",
-  "ratio": 4.184,
-  "format": "cal"
-});
-
-numi.addUnit({
   "id": "food_calorie",
-  "phrases": "kcal, Calorie, Calories, foodcal",
+  "phrases": "kcal, kcals, kilocalorie, kilocalories, Calorie, Calories, foodcal",
   "baseUnitId": "gram",
   "ratio": 4184,
   "format": "kcal"
+});
+
+numi.addUnit({
+  "id": "small_calorie",
+  "phrases": "cal, cals, calorie, calories, smallcal",
+  "baseUnitId": "gram",
+  "ratio": 4.184,
+  "format": "cal"
 });
