@@ -22,3 +22,7 @@ This plugin alows you to trqnsform food energy to joule, kilojoule, calories or 
 - `100 cal in J` -> `418.4 J`
 - `5000 J in kcal` -> `1.195 kcal`
 - `12 kJ in J` -> `12000 J`
+
+## Example
+
+![plugin](food_energy.png)
